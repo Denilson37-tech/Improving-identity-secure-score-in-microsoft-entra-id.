@@ -1,8 +1,8 @@
-# Improving-identity-secure-score-in-microsoft-entra-id.
+Improving-identity-secure-score-in-microsoft-entra-id.
 
 overview
 
-This project focuses on improving the identity secure score in a microsoft entra id test tenant. initially, the tenant had a secure score of approximately 45%, showing weak identity hygiene and multiple unresolved recommendations. after applying selected identity hardening actions, the score improved to 75% within 24 hours.
+This project focuses on improving the identity secure score in a microsoft entra id test tenant. initially, the tenant had a secure score of approximately 15%, showing weak identity hygiene and multiple unresolved recommendations. after applying selected identity hardening actions, the score improved to 75% within 24 hours.
 This demonstrates practical identity security at a junior cloud security level.
 
 Problem
@@ -31,7 +31,7 @@ changes were applied carefully to avoid breaking access while improving security
 
 Result
 
-identity secure score increased from ~45% to 75% within 24 hours
+identity secure score increased from 15% to 75% within 24 hours
 
 multiple recommendations moved to addressed
 
